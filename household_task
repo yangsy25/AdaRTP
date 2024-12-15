@@ -1,14 +1,97 @@
 [
     {
+        "task_desc":"Please take a cup of milk to the table.",
+        "task_goal":"at(milk,table)"
+    },
+    {
+        "task_desc":"Please take a glass of milk to the table.",
+        "task_goal":"at(milk,table)"
+    },
+    {
+        "task_desc":"Could you put a cup of milk to the table, please?",
+        "task_goal":"at(milk,table)"
+    },
+    {
+        "task_desc":"Could you place a cup of coffee to the bar, please?",
+        "task_goal":"at(coffee,bar)"
+    },
+    {
+        "task_desc":"Could you bring a cup of coke to the bar, please?",
+        "task_goal":"at(cola,bar)"
+    },
+    {
+        "task_desc":"Would you mind taking a cup of yoghurt to the desk for me?",
+        "task_goal":"at(yoghurt,desk)"
+    },
+    {
+        "task_desc":"I need a cup of yoghurt on the desk, could you assist with that?",
+        "task_goal":"at(yoghurt,desk)"
+    },
+    {
+        "task_desc":"would you please put a cup of water on the table.",
+        "task_goal":"at(water,table)"
+    },
+    {
+        "task_desc":"Can you bring a cup of cola over to the shelf, please?",
+        "task_goal":"at(cola,shelf)"
+    },
+    {
+        "task_desc":"Would you mind taking a cup of coffee to the desk for me?",
+        "task_goal":"at(coffee,desk)"
+    },
+    {
+        "task_desc":"Could you place a cup of milk in the fridge, please?",
+        "task_goal":"at(milk,fridge)"
+    },
+    {
+        "task_desc":"Would you mind storing a glass of milk in the refrigerator?",
+        "task_goal":"at(milk,fridge)"
+    },
+    {
+        "task_desc":"Can you put that cup of milk in the fridge for me?",
+        "task_goal":"at(milk,fridge)"
+    },
+    {
+        "task_desc":"I'd appreciate it if you could put the apple in the fridge.",
+        "task_goal":"at(apple,fridge)"
+    },
+    {
+        "task_desc":"Could you help by placing eggs in the refrigerator?",
+        "task_goal":"at(egg,fridge)"
+    },
+    {
+        "task_desc":"Would you mind taking a cup of milk and putting it in the fridge?",
+        "task_goal":"at(milk,fridge)"
+    },
+    {
+        "task_desc":"I need put the dessert in the refrigerator , could you assist with that?",
+        "task_goal":"at(dessert,fridge)"
+    },
+    {
+        "task_desc":"Could you put a orange in the refrigerator, please?",
+        "task_goal":"at(orange,fridge)"
+    },
+    {
+        "task_desc":"I'd appreciate it if you could put the cheese in the refrigerator.",
+        "task_goal":"at(cheese,fridge)"
+    },
+    {
+        "task_desc":"I'd appreciate it if you could put the yoghurt in the refrigerator.",
+        "task_goal":"at(yoghurt,fridge)"
+    },
+    {
         "task_desc":"Please power up the television.",
         "task_goal":"on(television)"
-    },{
+    },
+    {
         "task_desc":"Please switch off the TV.",
         "task_goal":"off(television)"
-    },{
+    },
+    {
         "task_desc":"Would you switch the television off?",
         "task_goal":"off(television)"
-    },{
+    },
+    {
         "task_desc":"Please turn on the air conditioner.",
         "task_goal":"on(air_conditioner)"
     },{
