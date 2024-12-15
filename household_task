@@ -1,0 +1,132 @@
+[
+    {
+        "task_desc":"Please power up the television.",
+        "task_goal":"on(television)"
+    },{
+        "task_desc":"Please switch off the TV.",
+        "task_goal":"off(television)"
+    },{
+        "task_desc":"Would you switch the television off?",
+        "task_goal":"off(television)"
+    },{
+        "task_desc":"Please turn on the air conditioner.",
+        "task_goal":"on(air_conditioner)"
+    },{
+        "task_desc":"Could you turn on the AC, please?",
+        "task_goal":"on(air_conditioner)"
+    },{
+        "task_desc":"I would appreciate it if you could switch on the AC.",
+        "task_goal":"on(air_conditioner)"
+    },{
+        "task_desc":"Please deactivate the AC for me.",
+        "task_goal":"off(air_conditioner)"
+    },{
+        "task_desc":"Please turn on the lamp.",
+        "task_goal":"on(lamp)"
+    },{
+        "task_desc":"Would you help by turning on the light?",
+        "task_goal":"on(lamp)"
+    },{
+        "task_desc":"I'd appreciate it if you could switch on the light.",
+        "task_goal":"on(lamp)"
+    },{
+        "task_desc":"Would you help by turning off the lamp?",
+        "task_goal":"off(lamp)"
+    },{
+        "task_desc":"Please switch on the fan.",
+        "task_goal":"on(fan)"
+    },{
+        "task_desc":"Would you switch the fan on?",
+        "task_goal":"on(fan)"
+    },{
+        "task_desc":"Could you turn on the fan, please?",
+        "task_goal":"on(fan)"
+    },{
+        "task_desc":"Please deactivate the fan for me.",
+        "task_goal":"off(fan)"
+    },{
+        "task_desc":"Could you switch off the fan, please?",
+        "task_goal":"off(fan)"
+    },{
+        "task_desc":"I would appreciate it if you could switch off the fan.",
+        "task_goal":"off(fan)"
+    },{
+        "task_desc":"Please initiate the microwave for me.",
+        "task_goal":"on(microwave)"
+    },{
+        "task_desc":"Would you switch the microwave on?",
+        "task_goal":"on(microwave)"
+    },{
+        "task_desc":"Please switch off the microwave.",
+        "task_goal":"off(microwave)"
+    },{
+        "task_desc":"Please come to the table.",
+        "task_goal":"robotAt(table)"
+    },
+    {
+        "task_desc":"I need you to come to the table.",
+        "task_goal":"robotAt(table)"
+    },
+    {
+        "task_desc":"I'd like you to come to the shelf.",
+        "task_goal":"robotAt(shelf)"
+    },
+    {
+        "task_desc":"Come to the bar please.",
+        "task_goal":"robotAt(bar)"
+    },
+    {
+        "task_desc":"I need you to come to the desk.",
+        "task_goal":"robotAt(desk)"
+    },
+    {
+        "task_desc":"Please come to the fridge.",
+        "task_goal":"robotAt(fridge)"
+    },
+    {
+        "task_desc":"I need you to come to the refrigerator.",
+        "task_goal":"robotAt(fridge)"
+    },
+    {
+        "task_desc":"Come to the cabinet please.",
+        "task_goal":"robotAt(cabinet)"
+    },
+    {
+        "task_desc":"Could you come over to the drawer?",
+        "task_goal":"robotAt(drawer)"
+    },
+    {
+        "task_desc":"Could you come over to the suitcase?",
+        "task_goal":"robotAt(suitcase)"
+    },{
+        "task_desc":"Please clean up the table",
+        "task_goal":"clean(table)"
+    },{
+        "task_desc":"I would appreciate it if you could tidy up the table.",
+        "task_goal":"clean(table)"
+    },{
+        "task_desc":"Could you help by cleaning up the shelf?",
+        "task_goal":"clean(shelf)"
+    },{
+        "task_desc":"Could you please tidy up the bar?",
+        "task_goal":"clean(bar)"
+    },{
+        "task_desc":"Please clean up the desk.",
+        "task_goal":"clean(desk)"
+    },{
+        "task_desc":"I would appreciate it if you could tidy up the table.",
+        "task_goal":"clean(sofa)"
+    },{
+        "task_desc":"Please clean up the refrigerator.",
+        "task_goal":"clean(fridge)"
+    },{
+        "task_desc":"I would appreciate it if you could tidy up the fridge.",
+        "task_goal":"clean(fridge)"
+    },{
+        "task_desc":"Could you help by cleaning up the cabinet?",
+        "task_goal":"clean(cabinet)"
+    },{
+        "task_desc":"Please clean up the drawer.",
+        "task_goal":"clean(drawer)"
+    }
+]
