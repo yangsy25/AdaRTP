@@ -1,0 +1,602 @@
+[
+    {
+        "type": "put",
+        "task_goal": "at(water,fridge)",
+        "instructions": "Would you mind taking the water to the refrigerator?",
+        "init_environment": "1"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(book,drawer)",
+        "instructions": "Could you put the book on the drawer, please?",
+        "init_environment": "10"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(orange,closet)",
+        "instructions": "I would appreciate it if you could put the orange on the closet.",
+        "init_environment": "7"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(scissors,closet)",
+        "instructions": "I would appreciate it if you could take the scissors to the closet.",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(vase,cabinet)",
+        "instructions": "Would you please put the vase on the cabinet?",
+        "init_environment": "1"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(cola,desk)",
+        "instructions": "I need the cola on the desk, could you assist with that?",
+        "init_environment": "3"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(yoghurt,table)",
+        "instructions": "Would you mind putting the yoghurt on the table?",
+        "init_environment": "1"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(toothpaste,suitcase)",
+        "instructions": "Could you put the toothpaste on the suitcase, please?",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(cheese,cabinet)",
+        "instructions": "Would you please take the cheese to the cabinet?",
+        "init_environment": "2"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(keys,cabinet)",
+        "instructions": "Would you mind placing the keys on the cabinet?",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(laptop,drawer)",
+        "instructions": "I would appreciate it if you could take the laptop to the drawer.",
+        "init_environment": "6"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(notebook,sofa)",
+        "instructions": "Place the notebook on the sofa, please.",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(candle,table)",
+        "instructions": "I would appreciate it if you could take the candle to the table.",
+        "init_environment": "7"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(book,sofa)",
+        "instructions": "I was wondering if you could put the book on the sofa.",
+        "init_environment": "6"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(camera,desk)",
+        "instructions": "Would you mind taking the camera to the desk?",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(toothbrush,drawer)",
+        "instructions": "Would you please take the toothbrush to the drawer?",
+        "init_environment": "1"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(earphones,cabinet)",
+        "instructions": "Would you mind taking the earphones to the cabinet?",
+        "init_environment": "10"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(cheese,bar)",
+        "instructions": "I would appreciate it if you could place the cheese on the bar.",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(pen,bar)",
+        "instructions": "Would you please take the pen to the bar?",
+        "init_environment": "5"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(cola,closet)",
+        "instructions": "Put the cola on the closet, please.",
+        "init_environment": "10"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(towel,shelf)",
+        "instructions": "Please take the towel to the shelf.",
+        "init_environment": "2"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(glue,sofa)",
+        "instructions": "Could you place the glue on the sofa, please?",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(plate,shelf)",
+        "instructions": "Would you mind taking the plate to the shelf?",
+        "init_environment": "3"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(bread,cabinet)",
+        "instructions": "Could you place the bread on the cabinet, please?",
+        "init_environment": "4"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(notebook,table)",
+        "instructions": "Would you please take the notebook to the table?",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(hat,shelf)",
+        "instructions": "Could you put the hat on the shelf, please?",
+        "init_environment": "5"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(orange,drawer)",
+        "instructions": "Could you put the orange on the drawer, please?",
+        "init_environment": "2"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(coffee,shelf)",
+        "instructions": "I need the coffee on the shelf, could you assist with that?",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(blanket,desk)",
+        "instructions": "Place the blanket on the desk, please.",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(water,fridge)",
+        "instructions": "Could you take the water to the refrigerator, please?",
+        "init_environment": "6"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(laptop,table)",
+        "instructions": "Would you please take the laptop to the table?",
+        "init_environment": "2"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(cd,closet)",
+        "instructions": "Could you put the cd on the closet, please?",
+        "init_environment": "3"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(egg,shelf)",
+        "instructions": "I would appreciate it if you could place the egg on the shelf.",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(apple,fridge)",
+        "instructions": "Put the apple on the fridge, please.",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(yoghurt,table)",
+        "instructions": "I would appreciate it if you could put the yoghurt on the table.",
+        "init_environment": "6"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(notebook,shelf)",
+        "instructions": "Take the notebook to the shelf, please.",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(dessert,bar)",
+        "instructions": "Would you please put the dessert on the bar?",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(water,suitcase)",
+        "instructions": "Could you place the water on the suitcase, please?",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(tablet,sofa)",
+        "instructions": "Could you place the tablet on the sofa, please?",
+        "init_environment": "7"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(orange,table)",
+        "instructions": "Would you please put the orange on the table?",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(milk,desk)",
+        "instructions": "Take the milk to the desk, please.",
+        "init_environment": "7"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(milk,sofa)",
+        "instructions": "I would appreciate it if you could place the milk on the sofa.",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(newspaper,bar)",
+        "instructions": "Would you mind putting the newspaper on the bar?",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(phone,desk)",
+        "instructions": "Would you please place the phone on the desk?",
+        "init_environment": "6"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(notebook,closet)",
+        "instructions": "I would appreciate it if you could place the notebook on the closet.",
+        "init_environment": "5"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(earphones,drawer)",
+        "instructions": "Put the earphones on the drawer, please.",
+        "init_environment": "6"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(wallet,cabinet)",
+        "instructions": "I need the wallet on the cabinet, could you assist with that?",
+        "init_environment": "7"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(socks,shelf)",
+        "instructions": "I was wondering if you could put the socks on the shelf.",
+        "init_environment": "3"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(toothpaste,shelf)",
+        "instructions": "Would you please put the toothpaste on the shelf?",
+        "init_environment": "1"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(watch,drawer)",
+        "instructions": "Would you mind taking the watch to the drawer?",
+        "init_environment": "5"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(hat,sofa)",
+        "instructions": "Please put the hat on the sofa.",
+        "init_environment": "9"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(orange,bar)",
+        "instructions": "Please take the orange to the bar.",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(apple,shelf)",
+        "instructions": "Could you put the apple on the shelf, please?",
+        "init_environment": "8"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(juice,table)",
+        "instructions": "Could you put the juice on the table, please?",
+        "init_environment": "10"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(cola,cabinet)",
+        "instructions": "I would appreciate it if you could put the cola on the cabinet.",
+        "init_environment": "2"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(magazine,sofa)",
+        "instructions": "Would you please take the magazine to the sofa?",
+        "init_environment": "3"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(keys,bar)",
+        "instructions": "Place the keys on the bar, please.",
+        "init_environment": "7"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(coffee,desk)",
+        "instructions": "Would you mind putting the coffee on the desk?",
+        "init_environment": "5"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(drawer)",
+        "instructions": "I would appreciate it if you could tidy up the drawer.",
+        "init_environment": "4"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(sofa)",
+        "instructions": "Could you please tidy up the sofa?",
+        "init_environment": "4"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(drawer)",
+        "instructions": "Please clean up the drawer.",
+        "init_environment": "2"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(fridge)",
+        "instructions": "Please tidy up the refrigerator.",
+        "init_environment": "5"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(sofa)",
+        "instructions": "Would you mind cleaning up the sofa?",
+        "init_environment": "7"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(desk)",
+        "instructions": "I would appreciate it if you could tidy up the desk.",
+        "init_environment": "8"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(drawer)",
+        "instructions": "Would you mind tidying up the drawer?",
+        "init_environment": "5"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(bar)",
+        "instructions": "Please tidy up the bar.",
+        "init_environment": "1"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(sofa)",
+        "instructions": "I would appreciate it if you could clean up the sofa.",
+        "init_environment": "7"
+    },
+    {
+        "type": "clean",
+        "task_goal": "clean(cabinet)",
+        "instructions": "Please clean up the cabinet.",
+        "init_environment": "6"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(shelf)",
+        "instructions": "I would like you to come to the shelf.",
+        "init_environment": "10"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(drawer)",
+        "instructions": "I would like you to come to the drawer.",
+        "init_environment": "8"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(suitcase)",
+        "instructions": "I need you to come to the suitcase.",
+        "init_environment": "8"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(fridge)",
+        "instructions": "Could you come over to the fridge?",
+        "init_environment": "7"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(cabinet)",
+        "instructions": "I need you to come to the cabinet.",
+        "init_environment": "3"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(cabinet)",
+        "instructions": "Could you come over to the cabinet?",
+        "init_environment": "7"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(suitcase)",
+        "instructions": "Please come to the suitcase.",
+        "init_environment": "1"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(suitcase)",
+        "instructions": "Come to the suitcase, please.",
+        "init_environment": "10"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(sofa)",
+        "instructions": "I need you to come to the sofa.",
+        "init_environment": "9"
+    },
+    {
+        "type": "moveTo",
+        "task_goal": "robotAt(desk)",
+        "instructions": "Please come to the desk.",
+        "init_environment": "10"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(pillow,suitcase)",
+        "instructions": "Would you mind taking the pillow to the suitcase?",
+        "init_environment": "10"
+    },
+    {
+        "type": "put",
+        "task_goal": "at(bread,bar)",
+        "instructions": "Would you please put the bread on the bar?",
+        "init_environment": "7"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(fan)",
+        "instructions": "Please deactivate the fan for me.",
+        "init_environment": "2"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(television)",
+        "instructions": "Would you help by powering down the TV?",
+        "init_environment": "7"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(fan)",
+        "instructions": "Would you help by switching off the fan?",
+        "init_environment": "8"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(television)",
+        "instructions": "Please turn off the TV.",
+        "init_environment": "10"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(lamp)",
+        "instructions": "Could you deactivate the light, please?",
+        "init_environment": "6"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(microwave)",
+        "instructions": "Please turn off the microwave.",
+        "init_environment": "8"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(television)",
+        "instructions": "Would you help by switching off the television?",
+        "init_environment": "10"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(air_conditioner)",
+        "instructions": "Could you turn off the air_conditioner, please?",
+        "init_environment": "3"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(television)",
+        "instructions": "Could you turn off the TV, please?",
+        "init_environment": "10"
+    },
+    {
+        "type": "turnOff",
+        "task_goal": "off(fan)",
+        "instructions": "Please power down the fan.",
+        "init_environment": "8"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(lamp)",
+        "instructions": "Please power up the light",
+        "init_environment": "7"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(television)",
+        "instructions": "Please power up the television",
+        "init_environment": "9"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(microwave)",
+        "instructions": "Please turn on the microwave.",
+        "init_environment": "7"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(air_conditioner)",
+        "instructions": "Please initiate the air_conditioner for me.",
+        "init_environment": "7"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(air_conditioner)",
+        "instructions": "Would you help by powering up the air_conditioner?",
+        "init_environment": "6"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(television)",
+        "instructions": "Please initiate the TV for me.",
+        "init_environment": "5"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(lamp)",
+        "instructions": "I'd appreciate it if you could switch on the light.",
+        "init_environment": "7"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(television)",
+        "instructions": "Please turn on the TV.",
+        "init_environment": "5"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(lamp)",
+        "instructions": "Could you switch on the light, please?",
+        "init_environment": "7"
+    },
+    {
+        "type": "turnOn",
+        "task_goal": "on(microwave)",
+        "instructions": "I'd appreciate it if you could power up the microwave.",
+        "init_environment": "4"
+    }
+]
